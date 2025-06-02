@@ -6,4 +6,4 @@ This is a simple repository used to test n8n GitHub PR review automation.
 - `src/app.py`: Simple Python code with basic functions.
 
 ### For testing
-This is 100th test.
+This is 101st test.
